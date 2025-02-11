@@ -1,12 +1,75 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\Moryakov_\u041A\u0422-41-22\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:38:44.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Program.cs",
+              "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Program.cs",
+              "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:35:36.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\appsettings.Development.json",
+              "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T14:32:31.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
