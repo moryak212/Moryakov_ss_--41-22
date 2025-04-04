@@ -3,16 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\migrations\\20250404142802_createdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\migrations\\20250404142802_createdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\models\\academicdegree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\models\\academicdegree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\models\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\models\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\models\\workload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\models\\workload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\database\\teacher_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\database\\teacher_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\moryakov_\u043A\u0442-41-22.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\moryakov_\u043A\u0442-41-22.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\data\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\data\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\data\\configurations\\workloadconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\data\\configurations\\workloadconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\data\\configurations\\teacherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\data\\configurations\\teacherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\data\\configurations\\positionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\data\\configurations\\positionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\data\\configurations\\disciplineconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\data\\configurations\\disciplineconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\data\\configurations\\academicdegreeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\data\\configurations\\academicdegreeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|c:\\users\\\u0441\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\moryakov_ss_--41-22\\moryakov_\u043A\u0442-41-22\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E462F-CEB0-4297-859F-05875623FD34}|Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj|solutionrelative:moryakov_\u043A\u0442-41-22\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +94,236 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20250404142802_CreateDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Migrations\\20250404142802_CreateDatabase.cs",
+              "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\Migrations\\20250404142802_CreateDatabase.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Migrations\\20250404142802_CreateDatabase.cs",
+              "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\Migrations\\20250404142802_CreateDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:28:02.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teacher_Dbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Database\\Teacher_Dbcontext.cs",
+              "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\Database\\Teacher_Dbcontext.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Database\\Teacher_Dbcontext.cs",
+              "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\Database\\Teacher_Dbcontext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:23:07.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\appsettings.json",
+              "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\appsettings.json",
+              "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T12:22:57.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T15:18:34.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T14:38:44.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T15:18:25.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\WeatherForecast.cs",
+              "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:53:03.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WorkloadConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\WorkloadConfiguration.cs",
+              "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\WorkloadConfiguration.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\WorkloadConfiguration.cs",
+              "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\WorkloadConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:37:36.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DisciplineConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\DisciplineConfiguration.cs",
+              "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\DisciplineConfiguration.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\DisciplineConfiguration.cs",
+              "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\DisciplineConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:37:12.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TeacherConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\TeacherConfiguration.cs",
+              "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\TeacherConfiguration.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\TeacherConfiguration.cs",
+              "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\TeacherConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:36:27.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\DepartmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:35:59.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PositionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\PositionConfiguration.cs",
+              "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\PositionConfiguration.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\PositionConfiguration.cs",
+              "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\PositionConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:35:14.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Workload.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Models\\Workload.cs",
+              "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\Models\\Workload.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Models\\Workload.cs",
+              "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\Models\\Workload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:31:23.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Discipline.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Models\\Discipline.cs",
+              "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\Models\\Discipline.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Models\\Discipline.cs",
+              "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\Models\\Discipline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:30:56.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Models\\Teacher.cs",
+              "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:30:03.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Models\\Department.cs",
+              "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:28:56.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Models\\Position.cs",
+              "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:28:12.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AcademicDegree.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Models\\AcademicDegree.cs",
+              "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\Models\\AcademicDegree.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Models\\AcademicDegree.cs",
+              "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\Models\\AcademicDegree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:27:31.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AcademicDegreeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\AcademicDegreeConfiguration.cs",
+              "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\AcademicDegreeConfiguration.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\AcademicDegreeConfiguration.cs",
+              "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\Data\\Configurations\\AcademicDegreeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:26:30.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Moryakov_\u041A\u0422-41-22.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj",
+              "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj",
+              "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\Moryakov_\u041A\u0422-41-22.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T12:43:41.113Z"
             },
             {
               "$type": "Document",
@@ -49,23 +333,21 @@
               "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\Program.cs",
               "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\Program.cs",
               "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T14:35:36.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T14:35:36.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Moryakov_\u041A\u0422-41-22\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0430\u0444\u0438\u043C\\source\\repos\\Moryakov_ss_--41-22\\Moryakov_\u041A\u0422-41-22\\appsettings.Development.json",
               "RelativeToolTip": "Moryakov_\u041A\u0422-41-22\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-11T14:32:31.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T14:32:31.009Z"
             }
           ]
         }
