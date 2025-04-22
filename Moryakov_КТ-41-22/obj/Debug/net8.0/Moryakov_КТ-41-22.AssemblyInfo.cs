@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Moryakov_КТ-41-22")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e627c06d7b63d1d969bfd4891f8d74a83936bf6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d758823af52c0109a5c05ffa42efd3ca9a1d6536")]
 [assembly: System.Reflection.AssemblyProductAttribute("Moryakov_КТ-41-22")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Moryakov_КТ-41-22")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

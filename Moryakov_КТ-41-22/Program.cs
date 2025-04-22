@@ -1,7 +1,6 @@
-using Moryakov_��_41_22.Database;
-using Microsoft.EntityFrameworkCore;
-using NLog;
+﻿using Moryakov_КТ_41_22.ServiceExtensions;
 using NLog.Web;
+using NLog;
 
 var builder = WebApplication.CreateBuilder(args);
 var logger = LogManager.Setup().LoadConfigurationFromAppSettings().GetCurrentClassLogger();
@@ -11,18 +10,21 @@ try
     builder.Logging.ClearProviders();
     builder.Host.UseNLog();
 
-    // Add services to the container.
-    builder.Services.AddControllers();
+    builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.Preserve;
+        options.JsonSerializerOptions.WriteIndented = true; // опционально
+    });
+
     builder.Services.AddEndpointsApiExplorer();
     builder.Services.AddSwaggerGen();
 
-    builder.Services.AddDbContext<Teacher_Dbcontext>(options =>
-    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
-
+    // 👇 Вызов расширения
+    builder.Services.ConfigureServices(builder.Configuration);
 
     var app = builder.Build();
 
-    // Configure the HTTP request pipeline.
     if (app.Environment.IsDevelopment())
     {
         app.UseSwagger();
